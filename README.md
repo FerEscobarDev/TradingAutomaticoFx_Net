@@ -1,0 +1,1 @@
+# TradingAutomaticoFx_Net
